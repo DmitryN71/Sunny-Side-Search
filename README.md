@@ -5,6 +5,15 @@ Search any selected text in one click: a sleek bar with your own search engines 
 
 **Chrome Web Store:** https://chromewebstore.google.com/detail/fhcglajlaohclaigglgplpoplagdcefb
 
+## Версия 1.5.0
+
+- Подсказка с названием поисковика стоит у самого значка, а не у края панели; её шрифт растёт вместе с размером панели.
+- Размер значков «Очень крупный» и настройка «Плотность»: плотно, обычно или свободно.
+- Папки на панели раскрываются списком, сеткой или сеткой с названиями; папка всегда открывается вплотную к панели.
+- Тема «Своя»: цвет фона, цвет и толщина рамки, скругление углов.
+- Чёрные значки на тёмной панели и белые на светлой сами получают подложку.
+- Окно на панели браузера: «Щелчок по поисковику» – выбрать для поля или искать сразу; мультипоиск – Ctrl+щелчок по нескольким поисковикам, Enter ищет во всех.
+
 ## Версия 1.4.4
 
 - Кодировка запроса выбирается сама: при добавлении поисковика расширение один раз открывает страницу поиска сайта (без cookies, со словом test) и включает Windows-1251, если сайт работает в ней (tapochek.net, 4PDA, ru-board, Пикабу и другие старые русские сайты).
@@ -44,7 +53,7 @@ Search any selected text in one click: a sleek bar with your own search engines 
 
 ## Установка из файла
 
-1. Скачайте файл: [Sunny Side Search 1.4.4.crx](https://github.com/DmitryN71/Sunny-Side-Search/raw/refs/heads/main/Sunny%20Side%20Search%201.4.4.crx).
+1. Скачайте файл: [Sunny Side Search 1.5.0.crx](https://github.com/DmitryN71/Sunny-Side-Search/raw/refs/heads/main/Sunny%20Side%20Search%201.5.0.crx).
 2. Откройте страницу расширений: `chrome://extensions` (в Brave – `brave://extensions`) и включите «Режим разработчика».
 3. Перетащите скачанный файл в окно со списком расширений.
 
@@ -52,4 +61,4 @@ Search any selected text in one click: a sleek bar with your own search engines 
 
 ## Installing from the file
 
-Download [Sunny Side Search 1.4.4.crx](https://github.com/DmitryN71/Sunny-Side-Search/raw/refs/heads/main/Sunny%20Side%20Search%201.4.4.crx), open `chrome://extensions`, turn on Developer mode and drop the file onto the page. The file is signed by the Chrome Web Store and has the same ID as the store version, so later updates arrive from the store as usual.
+Download [Sunny Side Search 1.5.0.crx](https://github.com/DmitryN71/Sunny-Side-Search/raw/refs/heads/main/Sunny%20Side%20Search%201.5.0.crx), open `chrome://extensions`, turn on Developer mode and drop the file onto the page. The file is signed by the Chrome Web Store and has the same ID as the store version, so later updates arrive from the store as usual.
