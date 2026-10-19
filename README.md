@@ -5,6 +5,12 @@ Search any selected text in one click: a sleek bar with your own search engines 
 
 **Chrome Web Store:** https://chromewebstore.google.com/detail/fhcglajlaohclaigglgplpoplagdcefb
 
+## Версия 1.5.1
+
+- «Добавить этот поиск»: правый щелчок по полю поиска на любом сайте – и открывается окно нового поисковика, уже заполненное: название, адрес, кодировка (для сайтов на Windows-1251 – сразу правильная).
+- Если сайт ищет без обычной формы или не передаёт запрос в адресе, окно подсказывает, как добавить поиск по адресу страницы результатов.
+- Пункт меню выключается в настройках: Поведение → «„Добавить этот поиск“ в полях поиска».
+
 ## Версия 1.5.0
 
 - Подсказка с названием поисковика стоит у самого значка, а не у края панели; её шрифт растёт вместе с размером панели.
@@ -53,7 +59,7 @@ Search any selected text in one click: a sleek bar with your own search engines 
 
 ## Установка из файла
 
-1. Скачайте файл: [Sunny Side Search 1.5.0.crx](https://github.com/DmitryN71/Sunny-Side-Search/raw/refs/heads/main/Sunny%20Side%20Search%201.5.0.crx).
+1. Скачайте файл: [Sunny Side Search 1.5.1.crx](https://github.com/DmitryN71/Sunny-Side-Search/raw/refs/heads/main/Sunny%20Side%20Search%201.5.1.crx).
 2. Откройте страницу расширений: `chrome://extensions` (в Brave – `brave://extensions`) и включите «Режим разработчика».
 3. Перетащите скачанный файл в окно со списком расширений.
 
@@ -61,4 +67,4 @@ Search any selected text in one click: a sleek bar with your own search engines 
 
 ## Installing from the file
 
-Download [Sunny Side Search 1.5.0.crx](https://github.com/DmitryN71/Sunny-Side-Search/raw/refs/heads/main/Sunny%20Side%20Search%201.5.0.crx), open `chrome://extensions`, turn on Developer mode and drop the file onto the page. The file is signed by the Chrome Web Store and has the same ID as the store version, so later updates arrive from the store as usual.
+Download [Sunny Side Search 1.5.1.crx](https://github.com/DmitryN71/Sunny-Side-Search/raw/refs/heads/main/Sunny%20Side%20Search%201.5.1.crx), open `chrome://extensions`, turn on Developer mode and drop the file onto the page. The file is signed by the Chrome Web Store and has the same ID as the store version, so later updates arrive from the store as usual.
